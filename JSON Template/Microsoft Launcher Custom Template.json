@@ -1,0 +1,728 @@
+{
+    "kind": "androidenterprise#managedConfiguration",
+    "productId": "app:com.microsoft.launcher",
+    "managedProperty": [
+        {
+            "key": "management_mode_key",
+            "valueString": "Default"
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url",
+            "valueString": ""
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.GridSize",
+            "valueString": "5;5"
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.Applications",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.Folder.Style.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Folder.Style",
+            "valueBundle": {
+                "managedProperty": [
+                    {
+                        "key": "folderShape",
+                        "valueString": ""
+                    },
+                    {
+                        "key": "openFullScreen",
+                        "valueBool": true
+                    },
+                    {
+                        "key": "folderScroll",
+                        "valueString": "vertical"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.WebLinks",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode",
+            "valueString": "Disabled"
+        },
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement",
+            "valueString": "Top"
+        }
+    ]
+}

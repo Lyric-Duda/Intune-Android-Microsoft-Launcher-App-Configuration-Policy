@@ -1,0 +1,848 @@
+{
+    "kind": "androidenterprise#managedConfiguration",
+    "productId": "app:com.microsoft.launcher",
+    "managedProperty": [
+        {
+            "key": "management_mode_key",
+            "valueString": "Default"
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url",
+            "valueString": "https://daiintunestorageaccount.blob.core.windows.net/intune-personalization-blob/Android/Microsoft%20Launcher%20Wallpaper/Wallpaper%201080x2400.jpg"
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.GridSize", 
+            "valueString": "5;5"
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.Applications",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.dialer"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.apps.messaging"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.contacts"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.outlook"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.teams"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.emmx"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.apps.maps"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.android.vending"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.motorola.camera3"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.azure.authenticator"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.word"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.excel"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.powerpoint"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.onenote"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.skydrive"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.intune.remotehelp"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.intune"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 21
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.dialer"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 22
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.apps.messaging"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 23
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.contacts"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 24
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.outlook"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 25
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.teams"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 16
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.emmx"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 17
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.apps.maps"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 18
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.android.vending"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 19
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.motorola.camera3"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 20
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.azure.authenticator"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 11
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.word"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 12
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.excel"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 13
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.powerpoint"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 14
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.onenote"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 15
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.skydrive"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 6
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.intune.remotehelp"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 7
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.intune"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.Folder.Style.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Folder.Style",
+            "valueBundle": {
+                "managedProperty": [
+                    {
+                        "key": "folderShape",
+                        "valueString": ""
+                    },
+                    {
+                        "key": "openFullScreen",
+                        "valueBool": true
+                    },
+                    {
+                        "key": "folderScroll",
+                        "valueString": "vertical"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.WebLinks",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode",
+            "valueString": "Disabled"
+        },
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement",
+            "valueString": "Top"
+        }
+    ]
+}
