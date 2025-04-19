@@ -31,13 +31,13 @@ These JSON files are structured to
 
 ## Android Home Screen Application Layout With Microsoft Edge
 
-#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Microsoft Edge
+#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Microsoft Edge file
 
 ![Android Home Screen Application Layout](https://ldgithubstorageaccoun.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Edge%20270%20x%20600.png)
 
 ## Android Home Screen Application Layout With Google Chrome
 
-#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Google Chrome
+#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Google Chrome file
 
 ![Android Home Screen Application Layout](https://ldgithubstorageaccoun.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Chrome%20270%20x%20600.png)
 
@@ -51,11 +51,11 @@ These JSON files are structured to
 
 ## Link to the Microsoft Edge App Configuration Policy Referenced
 
-* [Microsoft Edge App Configuration Policy ](https://github.com/Lyric-Duda/Android-Microsoft-Edge-App-Configuration-Policy)
+* [Microsoft Edge App Configuration Policy ](https://github.com/Lyric-Duda/Intune-Android-Microsoft-Edge-App-Configuration-Policy)
 
 ## Link to the Google Chrome App Configuration Policy Referenced
 
-* [Google Chrome App Configuration Policy ](https://github.com/Lyric-Duda/Android-Google-Chrome-App-Configuration-Policy)
+* [Google Chrome App Configuration Policy ](https://github.com/Lyric-Duda/Intune-Android-Google-Chrome-App-Configuration-Policy)
 
 # Referenced Links
 

@@ -12,7 +12,7 @@
         },
         {
             "key": "com.microsoft.launcher.Wallpaper.Url",
-            "valueString": "https://daiintunestorageaccount.blob.core.windows.net/intune-personalization-blob/Android/Microsoft%20Launcher%20Wallpaper/Wallpaper%201080x2400.jpg"
+            "valueString": ""
         },
         {
             "key": "com.microsoft.launcher.Feed.Enable",
