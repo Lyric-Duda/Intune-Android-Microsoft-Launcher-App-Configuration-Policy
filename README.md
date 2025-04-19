@@ -29,17 +29,23 @@ These JSON files are structured to
 
 # Demo Images
 
-## Android Home Screen Application Layout
+## Android Home Screen Application Layout With Microsoft Edge
 
-#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher.json
+#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Microsoft Edge
 
-![Android Home Screen Application Layout](https://pgithubstorageaccount.blob.core.windows.net/intune-github-images/Android%20Microsoft%20Launcher%20App%20Images/Android%20Home%20Screen%20Application%20Layout.png)
+![Android Home Screen Application Layout](https://ldgithubstorageaccoun.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Edge%20270%20x%20600.png)
+
+## Android Home Screen Application Layout With Google Chrome
+
+#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Google Chrome
+
+![Android Home Screen Application Layout](https://ldgithubstorageaccoun.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Chrome%20270%20x%20600.png)
 
 ## MS365 Feed
 
-#### This shows how the Android Phone sets the MS365 Feed when you swipe left based on the Microsoft Launcher.json
+#### This shows how the Android Phone sets the MS365 Feed when you swipe left
 
-![MS365 Feed](https://pgithubstorageaccount.blob.core.windows.net/intune-github-images/Android%20Microsoft%20Launcher%20App%20Images/M365%20Feed%20-%20270%20x%20600.png)
+![MS365 Feed](https://ldgithubstorageaccoun.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/M365%20Feed%20270%20x%20600.png)
 
 # App Configuration Policy Links
 
