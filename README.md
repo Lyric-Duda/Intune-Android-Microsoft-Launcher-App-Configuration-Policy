@@ -43,7 +43,7 @@ These JSON files are structured to
 
 ## MS365 Feed
 
-#### This shows how the Android Phone sets the MS365 Feed when you swipe left
+#### This shows how the Android Phone sets the MS365 Feed when you swipe right
 
 ![MS365 Feed](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/M365%20Feed%20270%20x%20600.png)
 
