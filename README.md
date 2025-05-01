@@ -32,7 +32,7 @@ These JSON files are structured to
 To create the Microsoft Launcher App Configuration Policy
 1. Navagate to Apps - Android - Configuration
 2. Create a "Managed Device" policy
-    * Basic
+    ##### Basic
         1. Name
             * Enter the Desiered Name
         2. Platform
@@ -44,13 +44,13 @@ To create the Microsoft Launcher App Configuration Policy
                 + Personally-Owned Work Profile Only
         4. Targeted App
             * Microsoft Launcher
-    * Settings
+    ##### Settings
         1. Configuration Settings
             * Enter JSON data
                 + Enter the JSON Data from JSON Configurations or JSON Template
-    * Assignment
+    ##### Assignment
         1. Add desiered Users, Devices, or Groups
-    * Review + create
+    ##### Review + create
         * Review then click create
 
 # Demo Images
