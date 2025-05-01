@@ -27,6 +27,30 @@ These JSON files are structured to
     + Microsoft Launcher Google Chrome sets Google Chrome as the home screen browser
     + Microsoft Launcher Microsoft Edge sets Microsoft Edge as the home screen browser
 
+
+
+# Demo Images
+
+## Android Home Screen Application Layout With Microsoft Edge
+
+#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Microsoft Edge file
+
+![Android Home Screen Application Layout](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Edge%20270%20x%20600.png)
+
+## Android Home Screen Application Layout With Google Chrome
+
+#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Google Chrome file
+
+![Android Home Screen Application Layout](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Chrome%20270%20x%20600.png)
+
+## MS365 Feed
+
+#### This shows how the Android Phone sets the MS365 Feed when you swipe right
+
+![MS365 Feed](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/M365%20Feed%20270%20x%20600.png)
+
+# Intune Configuration Information
+
 ## Adding the Microsoft Launcher App Configuration Policy
 
 To create the Microsoft Launcher App Configuration Policy in Intune
@@ -52,26 +76,6 @@ To create the Microsoft Launcher App Configuration Policy in Intune
         1. Add desiered Users, Devices, or Groups
     * Review + create
         * Review then click create
-
-# Demo Images
-
-## Android Home Screen Application Layout With Microsoft Edge
-
-#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Microsoft Edge file
-
-![Android Home Screen Application Layout](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Edge%20270%20x%20600.png)
-
-## Android Home Screen Application Layout With Google Chrome
-
-#### This shows how the Android Phone sets the home screen based on the Microsoft Launcher Configuration - Google Chrome file
-
-![Android Home Screen Application Layout](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/Home%20Screen%20Chrome%20270%20x%20600.png)
-
-## MS365 Feed
-
-#### This shows how the Android Phone sets the MS365 Feed when you swipe right
-
-![MS365 Feed](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Launcher%20App%20Configuration%20Policy%20Information/M365%20Feed%20270%20x%20600.png)
 
 # App Configuration Policy Links
 
