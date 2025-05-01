@@ -27,6 +27,32 @@ These JSON files are structured to
     + Microsoft Launcher Google Chrome sets Google Chrome as the home screen browser
     + Microsoft Launcher Microsoft Edge sets Microsoft Edge as the home screen browser
 
+## Adding the JSON to Intune
+
+To create the Microsoft Launcher App Configuration Policy
+1. Navagate to Apps - Android - Configuration
+2. Create a "Managed Device" policy
+    * Basic
+        1. Name
+            * Enter the Desiered Name
+        2. Platform
+            * Android Enterprise
+        3. Profile Type
+            * Select
+                + All Profile Types
+                + Fully Managed, Dedicated, and Corporate-Owned Work Profile Only
+                + Personally-Owned Work Profile Only
+        4. Targeted App
+            * Microsoft Launcher
+    * Settings
+        1. Configuration Settings
+            * Enter JSON data
+                + Enter the JSON Data from JSON Configurations or JSON Template
+    * Assignment
+        1. Add desiered Users, Devices, or Groups
+    * Review + create
+        * Review then click create
+
 # Demo Images
 
 ## Android Home Screen Application Layout With Microsoft Edge
