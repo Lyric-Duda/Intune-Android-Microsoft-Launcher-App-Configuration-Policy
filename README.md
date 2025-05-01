@@ -8,7 +8,7 @@ This is my Microsoft Launcher layout for Fully Managed Company Owned Devices
 
 I took the template that you can download from intune when you make a "App Configuration Policy" for "Microsoft Launcher" and structured it to fill "Set Allow-Listed Applications" and "Home Screen App Order" easier
 
-## Microsoft Launcher
+## Microsoft Launcher JSON Structure
 
 These JSON files are structured to
 
